@@ -4,8 +4,9 @@ public class DemoClass {
 
 //Hello everyone
     //Hello guys did you just join?
-    //Hi guys! I am having conflict here
-    //Here is another one
+
+    //Here are some updates from remote collaborator
+    //here are the second line
 
 
 }
